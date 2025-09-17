@@ -1,0 +1,17 @@
+Version=56
+LANGUAGE=EN
+Folders=1
+Pages=7
+UIXlate=False, DebugUIXlate=False, Language=EN
+
+contents.txt • 254217.104240
+head.adoc • Clean laser head, lens and nozzle
+Index.adoc • Home
+JFY Maintenance request_ lists of the details 202509.xlsx
+m2.adoc • Clean operation panel, mouse and keyboard
+m3.adoc • Clean XYZ guide rails
+m4.adoc • Clear slag removal cart
+m5.adoc • Remove foreign objects from machine and pallet changer
+m6.adoc • Clean dusts in electrical cabinet
+manifest.txt • 253417.103401
+~$JFY Maintenance request_ lists of the details 202509.xlsx
