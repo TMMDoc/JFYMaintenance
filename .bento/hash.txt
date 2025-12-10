@@ -1,18 +1,16 @@
-Version=56
+Version=58
+BRAND=JFY
+FLAVOR=JFY
+JFY=
 LANGUAGE=EN
 Folders=1
-Pages=9
+Pages=4
 UIXlate=False, DebugUIXlate=False, Language=EN
 
-chain_adjustment.adoc • Machine chain adjustment
-chiller.adoc • Chiller weekly inspection
-contents.txt • 254719.094726
-head.adoc • Clean laser head, lens and nozzle
-Index.adoc • Home
-JFY Maintenance request_ lists of the details 202509.xlsx
-m2.adoc • Clean operation panel, mouse and keyboard
-m3.adoc • Clean XYZ guide rails
-m4.adoc • Clear slag removal cart
-m5.adoc • Remove foreign objects from machine and pallet changer
-m6.adoc • Clean dusts in electrical cabinet
-manifest.txt • 250417.070401
+100h1.adoc • Check the filter mat and cleaning/replacing if necessary
+100h2.adoc • Check and clean the laser filter mat
+40h.adoc • Emptying the condensed water container
+contents.txt • 252010.042012
+Home.adoc • Home
+Index.adoc • Introduction
+manifest.txt • 252610.032601
