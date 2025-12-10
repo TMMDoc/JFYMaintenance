@@ -1,1 +1,0 @@
-var filesJSON = {"version":"1.0","files":[{"url":"100h1","lbl":"Check the filter mat and cleaning/replacing if necessary"},{"url":"100h2","lbl":"Check and clean the laser filter mat"},{"url":"40h","lbl":"Emptying the condensed water container"},{"url":"home","lbl":"Home"},{"url":"index","lbl":"Introduction"}]};
