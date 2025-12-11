@@ -3,14 +3,17 @@ BRAND=JFY
 FLAVOR=JFY
 JFY=
 LANGUAGE=EN
-Folders=1
-Pages=4
+Folders=2
+Pages=6
 UIXlate=False, DebugUIXlate=False, Language=EN
 
-100h1.adoc • Check the filter mat and cleaning/replacing if necessary
-100h2.adoc • Check and clean the laser filter mat
-40h.adoc • Emptying the condensed water container
-contents.txt • 252010.042012
+contents.txt • 251611.121607
 Home.adoc • Home
-Index.adoc • Introduction
-manifest.txt • 252610.032601
+Index.adoc • Safety instructions
+Maintenance.adoc • Maintenance overview
+manifest.txt • 254411.124453
+MaintenanceTask\100h1.adoc • Check the filter mat and cleaning/replacing if necessary
+MaintenanceTask\100h2.adoc • Check and clean the laser filter mat
+MaintenanceTask\40h.adoc • Emptying the condensed water container
+MaintenanceTask\contents.txt • 250311.120337
+MaintenanceTask\Index.adoc • Maintenance tasks
