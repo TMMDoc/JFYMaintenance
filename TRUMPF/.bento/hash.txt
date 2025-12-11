@@ -1,0 +1,33 @@
+Version=58
+BRAND=TRUMPF
+FLAVOR=TRUMPF
+LANGUAGE=EN
+TRUMPF=
+Folders=2
+Pages=20
+UIXlate=False, DebugUIXlate=False, Language=EN
+
+contents.txt • 251611.121607
+Home.adoc • Home
+Index.adoc • Safety instructions
+Maintenance.adoc • Maintenance overview
+manifest.txt • 251811.021854
+MaintenanceTask\1000h.adoc • Check the safety door lock of the protective door
+MaintenanceTask\100h1.adoc • Check the filter mat and cleaning/replacing if necessary
+MaintenanceTask\100h2.adoc • Check and clean the laser filter mat
+MaintenanceTask\2000h.adoc • Lubricating the fixing device on pallet changer
+MaintenanceTask\2000h1.adoc • Check the filter of dispatch
+MaintenanceTask\200h.adoc • Replacing the air filter of the electrical cabinet fan
+MaintenanceTask\200h1.adoc • Cleaning the screen, keyboard and mouse
+MaintenanceTask\200h2.adoc • Clean the safety light barrier
+MaintenanceTask\200h3.adoc • Cleaning the laser protection window
+MaintenanceTask\200h4.adoc • Check the rubber fins
+MaintenanceTask\40h.adoc • Emptying the condensed water container
+MaintenanceTask\500h.adoc • Check the purging valve
+MaintenanceTask\500h1.adoc • Compressed air cutting - replace the activated carbon filter
+MaintenanceTask\500h2.adoc • Check the pre-filter element and replace it if necessary
+MaintenanceTask\500h3.adoc • Clean the calibration plate and nozzle cleaning
+MaintenanceTask\500h4.adoc • Check the traction chain and drive pin
+MaintenanceTask\500h5.adoc • Check the plate positioning clamp
+MaintenanceTask\contents.txt • 252111.062127
+MaintenanceTask\Index.adoc • Maintenance tasks
